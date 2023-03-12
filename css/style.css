@@ -1,0 +1,67 @@
+
+
+.statistic i
+{
+    width: 80px;
+    height: 80px;
+    color: #7B68EE;
+    font-size: 5rem;
+    margin: auto;
+}
+
+
+.Subscribe
+{
+   
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+    background-color:#7B68EE ;
+    border-radius: 20px;
+}
+.Subscribe p{
+    font-size:large;
+    font-weight: 500;
+    color: aliceblue;
+    margin-left: 8%;
+    padding-top: 10%;
+  
+}
+.input-email
+{  
+    height: 60px;
+ 
+}
+
+.Contact
+{
+    color: #7B68EE;
+}
+
+.facebook
+{
+    color:blue
+
+    
+}
+.linkedin
+{
+    color:#0077b5 ;
+  
+}
+.instagram
+{
+    color:#d1485e;
+}
+.twitter
+{
+    color: #A020F0;
+}
+.info
+{
+   
+   font-weight: 500;
+}
