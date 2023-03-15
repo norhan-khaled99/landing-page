@@ -1,4 +1,49 @@
+/*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}*/
+   
+body{
+overflow-x: hidden;
+} 
 
+.my-input{
+outline: 2px solid  #7B68EE;
+}
+.drop{
+color:#7B68EE
+}
+.asd{
+ color: #7B68EE;
+}
+.card{
+    transition: all 0.3s ease-in-out;
+
+}
+.card:hover{
+transform: scale(1.05);
+
+/* top: -5px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3); */
+}
+   .icons
+{
+    width: 10px;
+    height: 10px;
+    color: #7B68EE;
+    font-size: 2rem;
+    margin: auto; 
+
+   
+}
+.cover_photo
+{
+    width: 25%;
+    height: 200px;
+    margin: 10px;
+    border-radius: 15px;
+}
 
 .statistic i
 {
@@ -12,28 +57,28 @@
 
 .Subscribe
 {
-   
+    box-shadow: 15px 15px 15px lightgray;
+
     width: 80%;
-    height: 300px;
+    height: 350px;
     margin: auto;
     margin-top: 100px;
     margin-bottom: 100px;
-    
     background-color:#7B68EE ;
     border-radius: 20px;
 }
 .Subscribe p{
+ 
     font-size:large;
     font-weight: 500;
     color: aliceblue;
     margin-left: 8%;
     padding-top: 10%;
   
-}
+} 
 .input-email
 {  
     height: 60px;
- 
 }
 
 .Contact
@@ -64,4 +109,4 @@
 {
    
    font-weight: 500;
-}
+} 
