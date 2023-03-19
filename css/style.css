@@ -21,6 +21,13 @@ color:#7B68EE
     transition: all 0.3s ease-in-out;
 
 }
+#viewmore{
+    padding: 0px!important;
+    
+}
+.viewmore-img{
+height: 140px;
+}
 .card:hover{
 transform: scale(1.05);
 
@@ -75,7 +82,7 @@ transform: scale(1.05);
     margin-left: 8%;
     padding-top: 10%;
   
-} 
+}
 .input-email
 {  
     height: 60px;
